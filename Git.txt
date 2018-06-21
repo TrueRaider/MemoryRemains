@@ -4,6 +4,12 @@ https://granmoto.ru/collections/mx-9/products/7061355?variant=46192983624 Шле
 
 //
 
+Шейдеры
+https://docs.unity3d.com/ru/520/Manual/SL-VertexProgramInputs.html
+https://docs.unity3d.com/ru/current/Manual/shader-Performance.html
+https://forum.unity.com/threads/how-do-i-use-a-gloss-map.297752/
+https://docs.unity3d.com/Manual/SL-ShaderPrograms.html
+
 Сланцы
 Принадлежности для бассейна
 Большое полотенце
