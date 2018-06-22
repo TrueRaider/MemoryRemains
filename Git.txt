@@ -10,6 +10,8 @@ https://docs.unity3d.com/ru/current/Manual/shader-Performance.html
 https://forum.unity.com/threads/how-do-i-use-a-gloss-map.297752/
 https://docs.unity3d.com/Manual/SL-ShaderPrograms.html
 
+https://www.alanzucconi.com/2015/06/17/surface-shaders-in-unity3d/
+
 Сланцы
 Принадлежности для бассейна
 Большое полотенце
