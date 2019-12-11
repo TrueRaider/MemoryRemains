@@ -1,6 +1,6 @@
 1. Установите Rider;
 
-2. Разместите файл jetbrains-agent.jar в любой удобной папке;
+2. Разместите файл jetbrains-agent.jar в любой удобной папке 574;
 
 3. Перейдите к настройке окружения IDE: лаунчер -> "Configure" -> "Edit Custom VM Options..." либо IDE -> "Help" ->  "Edit Custom VM Options...", согласитесь на создание файла;
 
