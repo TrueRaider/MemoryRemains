@@ -1,3 +1,3 @@
 --allow-unrelated-histories  Слияние веток, не имеющих общей истории
-git worktree add "C:\Users\Viktor Karpov\Planet_Commander_5" dev_unity_5 один рабочий каталог на две ветки
+git worktreeeee add "C:\Users\Viktor Karpov\Planet_Commander_5" dev_unity_5 один рабочий каталог на две ветки
 touch /path/to/emptydirectory/.gitkeep Сохранить пустую папку
